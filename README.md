@@ -1,7 +1,7 @@
 # Uni_handy_scripts
-# * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+# * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
 # * This repository contains small scripts that can make the life of a computational chemist easier! :) *
-# * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+# * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
 
 - write_q_sub.py: Writes input files for submission in Eddie. 
      
