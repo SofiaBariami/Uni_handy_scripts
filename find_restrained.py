@@ -1,4 +1,4 @@
-# Finds the CA atoms that need to be constrained in a list of given residues
+# Finds the CA atoms that need to be restrained in a list of given residues
 
 l1 = list(range(2,34))
 l2 = list(range(36, 307))
